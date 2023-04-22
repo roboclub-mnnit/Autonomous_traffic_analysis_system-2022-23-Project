@@ -65,6 +65,17 @@
   <li>Byte tracker Algorithm library.</li>
  </ul>
 <hr>
+
+<h3>Follow the steps:-</h3>
+
+<h4>use python 3.9 for this project</h4>
+
+1. clone a repository "https://github.com/ifzhang/ByteTrack" into Vehicle Detection folder and install all the libraries mentioned in requirements.txt inside BYTE      tracker repo
+
+2. install ultralytics,cython_bbox,IPython,supervision,onemetric,tqdm,customtkinter library using pip
+
+3. now go into gui folder and run gui.py
+
 <h3>The steps involved</h3>
 <ol>
 
