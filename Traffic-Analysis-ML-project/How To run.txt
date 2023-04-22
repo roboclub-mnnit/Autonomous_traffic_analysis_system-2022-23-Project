@@ -1,0 +1,6 @@
+Folow the steps:-
+
+1. clone a repository "https://github.com/ifzhang/ByteTrack" into Vehicle Detection folder
+
+2. now go into gui folder and run gui.py
+
