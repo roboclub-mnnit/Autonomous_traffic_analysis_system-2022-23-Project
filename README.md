@@ -13,10 +13,13 @@ Tech Stack :
               numpy
               pandas
               matplotlib
+              supervision
   
         3. YOLO V8 Model
 
-        4. Harr Cascade Model    
+        4. Harr Cascade Model
+        
+        5. BYTE tracker repository from github
 
 Features : 
 
