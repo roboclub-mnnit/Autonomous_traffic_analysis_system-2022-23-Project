@@ -3,6 +3,7 @@
 <img src="https://user-images.githubusercontent.com/79747698/229343724-9ffa2d01-7c86-4305-b14d-dd788f58a9de.jpeg" alt="Robotics club MNNIT" />
 <h3>About</h3>
 <p>A ML based project to study various parameters of a particular traffic data given and then to catagorise and plot it.</p>
+<a href="https://docs.google.com/document/d/1n_gXdtBe2LF243WBo5BN1fuVyLqrwQCHrWZPhU2sN3I/edit?usp=sharing">Project report</a>
 <hr>
 <h3>This project is mentored by:</h3>
 <table>
@@ -134,3 +135,12 @@ An upload button to upload the video we want to analyze.
 After uploading the video download button to download the result pdf of the volume study and spot speed analysis.
 And lastly, two buttons to see the result videos. One for vehicle detection video and the second for speed detection.
 </ol>
+<hr>
+<h3>Real-life Applications</h3>
+The project finds a large spectrum of real-life areas of application.
+
+<ul>
+<li>To study the type of traffic passing a particular road,  its volume studies and spot speed analysis which facilitates in determining the majority of traffic passing the road, to determine the busiest hours of the road and its traffic density.</li>
+<li>The speed detection of vehicles can help in maintaining traffic rules and reduce accidents on roads.</li>
+<li>This can also be used as a traffic management system as on busy hours the traffic can be diverted to reduce rush on road.</li>
+</ul>
