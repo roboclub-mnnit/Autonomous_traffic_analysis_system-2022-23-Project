@@ -2,7 +2,7 @@
 <hr>
 <img src="https://user-images.githubusercontent.com/79747698/229343724-9ffa2d01-7c86-4305-b14d-dd788f58a9de.jpeg" alt="Robotics club MNNIT" />
 <h3>About</h3>
-<p>This is a computer vision, ML and DL based project, which is aimed to analyse various parameters of Indian traffic and facilitates the civil engineers to derive required parameters from traffic analysis which helps in calculating quantitative requirements for road upgradation and traffic flow analysis by avaoiding labourus work and also for various other different applications</p>
+<p>This is a computer vision, ML and DL based project, which is aimed to analyse various parameters of Indian traffic and facilitates the civil engineers to derive required parameters from traffic analysis which helps in calculating quantitative requirements for road upgradation and traffic flow analysis by  avoiding laborious work and also for various other different applications</p>
 <br>
 <p>In this project the traffic analysis is divided into two parts</p>
 <ol>
