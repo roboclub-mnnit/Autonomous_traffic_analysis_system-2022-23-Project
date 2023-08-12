@@ -1,6 +1,8 @@
 <h1>Autonomus traffic analysis system</h1>
 <hr>
-<img src="https://user-images.githubusercontent.com/79747698/229343724-9ffa2d01-7c86-4305-b14d-dd788f58a9de.jpeg" alt="Robotics club MNNIT" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/anupeshverma/Smart_Street_Light/main/Robotics3.gif" alt="Robotics club MNNIT">
+</div>
 <h3>About</h3>
 <p>This is a computer vision, ML and DL based project, which is aimed to analyse various parameters of Indian traffic and facilitates the civil engineers to derive required parameters from traffic analysis which helps in calculating quantitative requirements for road upgradation and traffic flow analysis by  avoiding laborious work and also for various other different applications</p>
 <br>
